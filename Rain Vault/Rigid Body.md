@@ -4,9 +4,33 @@
 >- [ ] 检测碰撞,没有碰撞的情况下,让真实套管接收处理后的数据
 >- [ ] 检测碰撞,发生碰撞的情况下,让真实套管接收处理后的数据
 
+```cpp
+bool is_in_contact_ = false;
+bool collision_detected_ = false;
+```
 
+---
 
+```cpp
+collision_detected_ = false;
+if (static_cast<int>(velocity.w) == shape_offset1) {  
+  is_contact = true;  
+  collision_detected_ = true;  
+}
 
+if (collision_detected_ && !is_in_contact_) {  
+  initial_contact_position_ = cur_instrument->pos;  
+  is_in_contact_ = true;  
+}
+
+if (is_in_contact_) {  
+  Vec3 displacement = initial_contact_position_ - current_pos;  
+  displacement = Vec3(fabs(displacement.x), fabs(displacement.y), fabs(displacement.z));  
+  force = -spring_constant_ * displacement;  
+}
+
+if (!collision_detected_ && is_in_contact_) { is_in_contact_ = false; }
+```
 ---
 
 ## Sequence  
