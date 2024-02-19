@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "9da8d39ec50ad996",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c71a17c8984706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8a60585af3feea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Work/2024-02-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "409dc1754ae0e89a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2655df6de914b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f715555610ff4f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba469d4ed7929dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecf24bfd88f84b62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "fa03d32e1c0a27fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "34438cb25a87d8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a95bd3ca39aaaaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Work/2024-02-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45ccbba837a1bdc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Work/2024-02-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eece02a98e7e91f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9d8db21a963a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Work/2024-02-19.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a8a60585af3feea",
+  "lastOpenFiles": [
+    "Daily Work/2024-02-19.md",
+    "Daily Work/2024-02-18.md",
+    "Templates/Daily.md",
+    "Templates",
+    "Daily Work",
+    "Daily Work.md",
+    "人人都是产品经理2.0/采集需求.md",
+    "人人都是产品经理2.0/要做什么来解决什么人的什么需求.md",
+    "Untitled.canvas",
+    "Pasted image 20240218174416.png",
+    "Pasted image 20240218174440.png",
+    "Pasted image 20240218173959.png",
+    "Pasted image 20240218173820.png",
+    "人人都是产品经理2.0/产品架构,设计,管理,运营.md",
+    "人人都是产品经理2.0/1做产品前的自问.md",
+    "Temp/Rigid.md",
+    "人人都是产品经理2.0/第01章 初识：大话产品经理.md",
+    "Physics simulation for alien/PBD.md",
+    "Alien/Dating 2024.2.15.md",
+    "截图/人人都是产品经理2.0：写给泛产品经理.jpeg",
+    "Temp",
+    "Sundry",
+    "jekyII deploy.md",
+    "Vocation plan/Study plan.md",
+    "社交问题磨合.pdf",
+    "Alien",
+    "截屏2024-02-16 13.21.14.png"
+  ]
+}
