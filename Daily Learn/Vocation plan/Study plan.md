@@ -1,6 +1,6 @@
 # My vocation study plan
 
-## [[MR Project]]
+## [[1MR Project]]
 
 ## Jolt physics engine
 
